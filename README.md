@@ -15,11 +15,11 @@ Data Transformation : Cleaned data types, handled missing values, and created st
 Custom DAX measures were constructed to segment demographics, compute weekly revenue, and compare performance WoW (Week-over-Week):
 Customer Age Group Segmentation :   
 
-Dashboard VisualizationCredit Card Transaction Report : 
+3. Dashboard VisualizationCredit Card Transaction Report : 
 Highlights high-level KPIs, quarterly revenue trends, swipe vs. online vs. chip payment channel usage, and spending categories. 
 Credit Card Customer Report : Visualizes customer lifetime value, income groups, education levels, job types, age brackets, and top geographic distributions.   
 
-Key Performance Insights
+4. Key Performance Insights
 YTD Overview PerformanceTotal 
 Revenue : $57M   
 Total Interest Earned : $8M   
@@ -29,7 +29,7 @@ Customer Income Sum : $588M
 Average Customer Satisfaction Score (CSS) : 3.19  
 Portfolio Health : 57.5% Activation Rate | 6.06% Delinquency Rate
 
-Key Segment BreakdownCard 
+5. Key Segment BreakdownCard 
 Category Dominance : Blue & Silver cards drive 93% of overall transactions, generating $47M and $6M respectively. 
 Demographics & Gender : Male customers lead overall revenue contribution with $31M , while female customers generate $26M.
 The 40–50 age group is the top contributing cohort ($25M total).  
